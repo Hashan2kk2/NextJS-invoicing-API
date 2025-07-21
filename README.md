@@ -13,7 +13,7 @@ A comprehensive multi-use invoicing system API built with Next.js, Prisma ORM, P
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/Hashan2kk2/invoicing-API.git
    cd invoicing-api
    ```
 
